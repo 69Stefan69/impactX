@@ -1,0 +1,1 @@
+{"Smoothness":"5","ESP":true,"Wallbang":false,"Show FOV":true,"Aimbot":true,"Team Check":true,"Tracers":true,"Visuals Color":"Rainbow","Silent Aim":false}

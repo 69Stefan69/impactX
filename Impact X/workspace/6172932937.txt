@@ -1,0 +1,1 @@
+{"FOV Radius":"151","Smoothness":"7","Aimbot":true,"Y Offset":"10","Show FOV":true,"Team Check":true,"Aim Part":"Torso","ESP":true,"Tracers":true}

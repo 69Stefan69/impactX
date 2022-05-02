@@ -1,0 +1,1 @@
+{"Tracers":true,"ESP":true,"Smoothness":"7","Aimbot":true}
